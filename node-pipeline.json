@@ -1,0 +1,1 @@
+[{"id":"61e6dfe1.1c53","type":"rpi-dht22","z":"923f52d3.b7f76","name":"dht","topic":"rpi-dht22","dht":"11","pintype":"0","pin":"12","x":350,"y":40,"wires":[["4c0c21e8.c81a7"]]}]

@@ -5,7 +5,7 @@
 
 ##### Equipe: Jesus Christ Jackie Boy
 
-Marcílio Henrique Araújo de Freitas\n
+Marcílio Henrique Araújo de Freitas \n
 Mateus Cardoso Gomes da Silva
 Paulo Sérgio da Silva Rodrigues
 
